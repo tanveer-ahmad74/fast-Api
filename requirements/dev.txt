@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+SQLAlchemy
+psycopg2
+alembic
+pre-commit
+environs
+pip-compile-multi
+pip-audit
+fastapi-pagination
+bandit
+pylint
+pylint-pydantic
