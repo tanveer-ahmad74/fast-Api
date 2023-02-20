@@ -3,7 +3,6 @@ uvicorn
 SQLAlchemy
 psycopg2
 alembic
-pre-commit
 environs
 pip-compile-multi
 pip-audit
